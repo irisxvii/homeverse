@@ -1,5 +1,5 @@
-import CharacterSelect from "./components/CharacterSelect";
+import GameWorld from "./components/GameWorld";
 
 export default function App() {
-  return <CharacterSelect />;
+  return <GameWorld />;
 }
